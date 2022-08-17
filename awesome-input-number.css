@@ -23,6 +23,8 @@
   font-size: 16px;
   color: #6c6dff;
   letter-spacing: -1px;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
 }
 
 .awesome-input-number button {
@@ -34,7 +36,7 @@
   color: white;
   font-size: 20px;
   cursor: pointer;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: #6c6dff;
   transition: background-color 0.2s ease;
 }
 
@@ -47,5 +49,5 @@
 }
 
 .awesome-input-number button:hover {
-  background-color: rgba(255, 255, 255, 0.25);
+  background-color: #5454c4;
 }

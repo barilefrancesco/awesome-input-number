@@ -1,8 +1,6 @@
 
 # Awesome Input Number
 
-jQuery input  number
-
 ![alt text](./doc/example.png)
 
 ## License

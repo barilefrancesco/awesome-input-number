@@ -1,0 +1,25 @@
+{
+  "name": "awesome-input-number",
+  "version": "1.0.0",
+  "description": "jquery input number with buttons",
+  "main": "awesome-input-number.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barilefrancesco/awesome-input-number.git"
+  },
+  "keywords": [
+    "AIMJQ"
+  ],
+  "author": "Francesco Barile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barilefrancesco/awesome-input-number/issues"
+  },
+  "homepage": "https://github.com/barilefrancesco/awesome-input-number#readme"
+}

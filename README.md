@@ -8,7 +8,14 @@ jQuery input  number
 ## Example
     <div id="1" class="awesome-input-number"></div>
 	<script>
-		new AwesomeInputNumber({ id: 1, min: 0, max: 10, initialValue: 3 });
+		new AwesomeInputNumber({ 
+			id: 1, 
+			min: 0, 
+			max: 10, 
+			initialValue: 3,
+			onIncrement: () => {},
+			onDecrement: () => {}
+		});
 	</script>
 
 ## License
